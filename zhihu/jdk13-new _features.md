@@ -105,7 +105,7 @@ $ java -classpath classes --enable-preview Test
 
 # Switch 表达式 (Preview)
 
-`switch`在`JDK 12`中引入了新的表达式作为预览语言功能。长话短说，JEP 325增添了一个新的简化形式`switch`与块`case L ->`的标签。[您可以在上一篇文章中找到更多详细信息](https://blog.gypsyengineer.com/en/tech/what-is-new-in-java-12.html)。
+`switch`在`JDK 12`中引入了新的表达式作为预览语言功能。长话短说，JEP 325增添了一个新的简化形式`switch`与块`case L ->`的标签。
 
 在以前的`switch`表达式预览版本中，建议添加一种新形式的`break`带有值的语句，该值将用于从`switch`表达式。在新版本的`switch`表达式中，它将替换为新的`yield`语句，我们可以用作语句（不返回内容）或表达式（返回内容）。引入新的关键字 `yield` 以从`switch`返回值。 
 
