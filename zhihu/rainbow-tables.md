@@ -27,7 +27,7 @@ rainbow tables
 
 **CreateTime:**`2020-2-6 18:13:54`
 
-**UpdateTime:**`2020-2-8 11:55:08`
+**UpdateTime:**`2020-2-8 12:31:43`
 
 **Copyright:**  唐涛 [HOME | 首页](https://www.promiselee.cn/tao) **©**  ***2020***  [<img alt="tangtao" style="width:35px;display:inline;" src="https://www.promiselee.cn/share_static/files/github/tao-logo.svg"/>](https://www.promiselee.cn/tao)  [<img style="width:25px;display:inline;margin-bottom:5px;" alt="github" src="https://www.promiselee.cn/share_static/files/github/github-logo.svg"/>](https://github.com/tangtaoshadow)
 
@@ -200,7 +200,7 @@ MD5(c5f9781b) = 39856f5c517195b517b44ff6f19f5305
 
 如果最终出现了和某条哈希链比对成功，就说明明文藏在了这条哈希链中，
 
-如果一直假设它的位置到**`R1`**还是比对失败，说明我们查找了现在存储的所有哈希链但还是未找到结果，也就是要找的明文不在我们存储的哈希链集中，最终结果比对失败💥。
+如果一直假设它的位置到**`R0`**，也就是链的开始位置，还是比对失败，说明我们查找了现在存储的所有哈希链但还是未找到结果，也就是要找的明文不在我们存储的哈希链集中，最终结果比对失败💥。
 
 
 
@@ -500,7 +500,7 @@ $2a$10$AuavMiVStvbDRzyXe4uBWOg7DApSLwk9ClatULle.VrDrPwX1rLU6
 
 **CreateTime:**`2020-2-6 18:13:54`
 
-**UpdateTime:**`2020-2-8 11:55:16`
+**UpdateTime:**`2020-2-8 12:31:50`
 
 
 
