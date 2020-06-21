@@ -675,6 +675,6 @@ tangtao.k8s-node1       Ready    <none>   82s    v1.18.3
 
 ---
 
-更新时间：`2020-6-21 17:41:23`
+更新时间：`2020-6-21 18:54:57`
 
 原文链接：[GitHub](https://github.com/tangtaoshadow/public_knowledge-tao/blob/master/zhihu/%E5%AE%89%E8%A3%85Kubernetes%E9%9B%86%E7%BE%A4.md)  [Web](https://www.promiselee.cn/share_static/files/public_knowledge/zhihu/%E5%AE%89%E8%A3%85Kubernetes%E9%9B%86%E7%BE%A4.html)
